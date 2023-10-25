@@ -24,6 +24,18 @@ form {
     background: #75BF7A;
     border-radius: 6px;
 }
+.card {
+    background-color: #f9f9f9;
+}
+.center {
+    position: relative;
+    background-color: #f9f9f9;
+}
+.phone {
+    position: absolute;
+    top: 0px;
+    left: 100px;
+}
 /* @media (min-width: 576px) {
     .navbar-expand-lg .navbar-nav {
     flex-direction: row;
