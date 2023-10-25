@@ -36,6 +36,9 @@ form {
     top: 0px;
     left: 100px;
 }
+.colorwhite {
+    background-color: white;
+}
 /* @media (min-width: 576px) {
     .navbar-expand-lg .navbar-nav {
     flex-direction: row;
