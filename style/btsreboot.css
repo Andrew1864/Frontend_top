@@ -7,6 +7,7 @@
    --bs-nav-link-font-size: 17px;
 }
 .btn {
+    margin: 12px;
     border-radius: 5.952px;
     --bs-btn-padding-x: 2rem;
     --bs-btn-padding-y: 0.87rem;
@@ -34,10 +35,14 @@ form {
 .phone {
     position: absolute;
     top: 0px;
-    left: 100px;
+    left: 95px;
 }
 .colorwhite {
     background-color: white;
+}
+.greenbol {
+    max-height: none;
+    width: 369px;
 }
 /* @media (min-width: 576px) {
     .navbar-expand-lg .navbar-nav {
